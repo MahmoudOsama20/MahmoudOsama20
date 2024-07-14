@@ -19,6 +19,12 @@ me = Developer()
 me.say_hi()
 
 
+📔 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+Understanding Neural Networks
+Getting Started with C#
+Introduction to Python for Data Science
+
 <!--
 **MahmoudOsama20/MahmoudOsama20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
