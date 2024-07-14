@@ -15,10 +15,10 @@ me = Developer()
 me.say_hi()
 ```
 
-## 🔧 Technologies & Tools
-Programming Languages:
-| Cloud Services: | AWS | API Gateway | Database | DynamoDB | Compute |
-|---|---|---|---|---|---|
-| Programming Languages: | Java | Python | Go | Rust | |
-| Tools and Services: | Kubernetes | Docker | | | |
+**Programming Languages:**
+
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
 
