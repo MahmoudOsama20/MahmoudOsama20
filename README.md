@@ -15,7 +15,7 @@
     
     me = Developer()
     me.say_hi()
-'''python
+'''
 
 ## 📝 Blogs
 
