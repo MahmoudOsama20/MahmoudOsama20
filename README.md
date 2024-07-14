@@ -17,4 +17,8 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 Programming Languages:
-- python
+| Cloud Services: | AWS | API Gateway | Database | DynamoDB | Compute |
+|---|---|---|---|---|---|
+| Programming Languages: | Java | Python | Go | Rust | |
+| Tools and Services: | Kubernetes | Docker | | | |
+
