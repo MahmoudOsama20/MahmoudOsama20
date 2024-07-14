@@ -17,3 +17,4 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 Programming Languages:
+- python
