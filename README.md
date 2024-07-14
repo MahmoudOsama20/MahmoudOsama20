@@ -19,11 +19,20 @@ me = Developer()
 me.say_hi()
 
 
-📔 Latest Blog posts
+## 📝 Blogs
+
+- Personal website and blog: [https://your-website/](https://your-website/)
+- Machine Learning Notes: [https://your-website/ml-notes](https://your-website/ml-notes)
+- [WIP] Project Documentations: [https://your-website/projects](https://your-website/projects)
+
+### 📔 Latest Blog posts
+
 <!-- BLOG-POST-LIST:START -->
-Understanding Neural Networks
-Getting Started with C#
-Introduction to Python for Data Science
+- [Understanding Neural Networks](https://your-website/blog/2023/07/14/understanding-neural-networks)
+- [Getting Started with C#](https://your-website/blog/2023/06/25/getting-started-with-csharp)
+- [Introduction to Python for Data Science](https://your-website/blog/2023/06/10/introduction-to-python-for-data-science)
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 **MahmoudOsama20/MahmoudOsama20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
