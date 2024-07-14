@@ -15,11 +15,6 @@ me = Developer()
 me.say_hi()
 ```
 
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Mahmoud Osama" />
-</h1>
-
 ## Hey! 👋
 I'm Mahmoud, a 20 years old software engineer from Egypt.
 
