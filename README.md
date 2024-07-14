@@ -1,7 +1,5 @@
 # Hi there 👋
 
-# Hi there 👋
-
 ```python
 class Developer:
     def __init__(self):
@@ -17,13 +15,7 @@ me = Developer()
 me.say_hi()
 ```
 
-## 📝 Blogs
-
-- Personal website and blog: [https://your-website/](https://your-website/)
-- Machine Learning Notes: [https://your-website/ml-notes](https://your-website/ml-notes)
-- [WIP] Project Documentations: [https://your-website/projects](https://your-website/projects)
-
-### 📔 Latest Blog posts
+## 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Neural Networks](https://your-website/blog/2023/07/14/understanding-neural-networks)
