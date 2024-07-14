@@ -2,20 +2,14 @@
 
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 
 class Developer:
 
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Mahmoud Osama"
         self.role = "Software Developer"
-        self.language_spoken = ["en_US", "other_languages"]
+        self.language_spoken = ["en_US", "ar_EGY"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
